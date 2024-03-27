@@ -1,5 +1,6 @@
 # Library-Management-
-##ABOUT OUR PROJECT
+
+## ABOUT OUR PROJECT
 
 This Library Management System is a comprehensive solution designed to manage the operations of college libraries efficiently. Developed in the C programming language, this project is the collaborative effort of four students from the Indian Institute of Information Technology (IIIT), Nagpur, as part of our college project.
 ###Features
@@ -12,7 +13,7 @@ Our Library Management System offers a wide range of features to simplify the ma
 - Generating reports on library activity
 - Search functionality for finding books
 
-##ABOUT US
+## ABOUT US
 
 We are a team of four enthusiastic Computer Science students from the Indian Institute of Information Technology (IIIT) Nagpur, dedicated to creating impactful software solutions. Our project, the Library Management System, is a testament to our collaborative skills and individual areas of expertise. Meet the team:
 
