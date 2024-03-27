@@ -27,3 +27,19 @@ Shresth brings his expertise in database management to our project. With a keen 
 
 ### Anshu Singh
 Anshu specializes in systems integration and managing all the documentation with perfection. Her expertise has been crucial in ensuring that our Library Management System functions can seamlessly integrate with one another. Anshu's work guarantees that our project is not just a standalone application but a versatile tool that enhances the library's ecosys
+
+## INSTALLATION
+To set up and run the Library Management System on your local machine, follow these steps. This guide assumes that you have a basic understanding of the C programming environment.
+### Prerequisites
+
+Before you begin, ensure you have the following installed on your system:
+- GCC compiler (or any C compiler)
+- A code editor (like Visual Studio Code, Atom, etc.)
+  
+### Step 1: Clone the Repository
+
+First, clone the repository to your local machine. Open a terminal or command prompt and run:
+
+```bash
+git clone https://github.com/yourusername/Library-Management-.git
+cd Library-Management-
