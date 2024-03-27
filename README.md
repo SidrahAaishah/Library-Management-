@@ -41,5 +41,34 @@ Before you begin, ensure you have the following installed on your system:
 First, clone the repository to your local machine. Open a terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/yourusername/Library-Management-.git
+[git clone https://github.com/SidrahAaishah/Library-Management-.git]
 cd Library-Management-
+```
+### Step2: Compile the code
+Navigate to the directory where the project is stored on your machine. Compile the source code using the GCC compiler or any C compiler of your choice. For example, to compile with GCC, run:
+```bash
+gcc -o library_management library_management.c
+```
+### Step3: Run the program
+After compilation, you can run the program with the following command:
+``` bash
+./library_management
+```
+## TECHNOLOGY STACK
+C as the programming language is used
+Development Tools-GCC (GNU Compiler Collection)
+                 -GDB (GNU Debugger)
+                 -libraries(stdlib,stdio,math.h)
+                 
+Version Control- Git
+               - Github
+IDE- Visual Studio Code
+DATA-STRUCTURES- linearLinked-list
+               - circular Linked-list
+               - Stack
+               - Queue
+               -Malloc
+               -Calloc
+               -Free
+## AKNOWLEDGEMENT
+Dr.Madhuri Dubey
