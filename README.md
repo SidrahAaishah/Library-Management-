@@ -56,20 +56,20 @@ After compilation, you can run the program with the following command:
 ./library_management
 ```
 ## TECHNOLOGY STACK
-C as the programming language is used
-Development Tools-GCC (GNU Compiler Collection)
-                 -GDB (GNU Debugger)
-                 -libraries(stdlib,stdio,math.h)
+C as the programming language is used<br>
+Development Tools-GCC (GNU Compiler Collection)<br>
+                 -GDB (GNU Debugger)<br>
+                 -libraries(stdlib,stdio,math.h)<br>
                  
-Version Control- Git
-               - Github
-IDE- Visual Studio Code
-DATA-STRUCTURES- linearLinked-list
-               - circular Linked-list
-               - Stack
-               - Queue
-               -Malloc
-               -Calloc
-               -Free
+Version Control- Git<br>
+               - Github<br>
+IDE- Visual Studio Code<br>
+DATA-STRUCTURES- linearLinked-list<br>
+               - circular Linked-list<br>
+               - Stack<br>
+               - Queue<br>
+               -Malloc<br>
+               -Calloc<br>
+               -Free<br>
 ## AKNOWLEDGEMENT
 Dr.Madhuri Dubey
